@@ -7,8 +7,8 @@
 
 <img alt="dotnet" src="https://img.shields.io/badge/-.NET-5A2C8D?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt="dotnetcore" src="https://img.shields.io/badge/-.NETCORE-5A2C8D?style=flat-square&logo=dotnet&logoColor=white" />
-<img alt="sql" src="https://img.shields.io/badge/-SQL-ffffff?style=flat-square&logo=microsoftsqlserver&logoColor=red" />
-<img alt="sqlite" src="https://img.shields.io/badge/-SQLite-FFFFFF?style=flat-square&logo=sqlite&logoColor=blue" />
+<img alt="sql" src="https://img.shields.io/badge/-SQL-F7F7F7?style=flat-square&logo=microsoftsqlserver&logoColor=red" />
+<img alt="sqlite" src="https://img.shields.io/badge/-SQLite-F7F7F7?style=flat-square&logo=sqlite&logoColor=blue" />
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
