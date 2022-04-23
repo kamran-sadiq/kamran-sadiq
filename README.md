@@ -4,6 +4,11 @@
 <p>Welcome to my page! </br> I'm Kamran Sadiq, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323352.png" width="13"/> <b>Lahore, Pakistan</b></p>
 <h3>Things I code with</h3>
 <p>
+
+<img alt="dotnet" src="https://img.shields.io/badge/-.NET-45b8d8?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="dotnet" src="https://img.shields.io/badge/-SQL-45b8d8?style=flat-square&logo=microsoftsqlserver&logoColor=red" />
+
+
 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
