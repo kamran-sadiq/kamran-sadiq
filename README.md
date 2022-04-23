@@ -23,7 +23,14 @@
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="swagger" src="https://img.shields.io/badge/-Swagger-FFFFFF?style=flat-square&logo=swagger&logoColor=#81E32C" />
+<img alt="swagger" src="https://img.shields.io/badge/-Swagger-F7F7F7?style=flat-square&logo=swagger&logoColor=#81E32C" />
+
+<img alt="azuredevops" src="https://img.shields.io/badge/-Azure DevOps-346AAD?style=flat-square&logo=azuredevops&logoColor=#81E32C" />
+<img alt="aws" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=amazon&logoColor=#81E32C" />
+<img alt="amazons3" src="https://img.shields.io/badge/-Amazon S3-232F3E?style=flat-square&logo=amazons3&logoColor=#81E32C" />
+
+<img alt="jira" src="https://img.shields.io/badge/-Jira-4380F8?style=flat-square&logo=jira&logoColor=#F7F7F7" />
+
 
   
 </p>
