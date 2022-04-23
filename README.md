@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Kamran Sadiq, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323352.png" width="13"/> <b>Lahore, Pakistan</b></p>
-<h3>Technical Utilities</h3>
+<h3>Things I code with</h3>
 <p>
 
 <img alt="dotnet" src="https://img.shields.io/badge/-.NET-5A2C8D?style=flat-square&logo=dotnet&logoColor=white" />
